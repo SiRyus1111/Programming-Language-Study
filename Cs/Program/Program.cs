@@ -1,7 +1,15 @@
-﻿namespace Program
+﻿using System;
+
+namespace Program
 {
-    class Project
+    class Program
     {
+        enum list
+        {
+            i = 1,
+            j = 2,
+            k = 3
+        }
         static void Main(string[] args)
         {
             int count = 5;
@@ -26,7 +34,7 @@
                 answer = Console.ReadLine();
                 if (answer == "y")
                 {
-                 Console.WriteLine("돈 없는데");
+                    Console.WriteLine("돈 없는데");
                 }
             } while (answer != "y");
             for(int i = 0; i < 5; i++)
