@@ -16,3 +16,4 @@ C#으로 유니티 엔진과 함께 서버 개발을 할 수준으로 C#의 숙�
 2026.1.23|C++|포인터|./Cpp/00_Basics/pointer1.cpp|  
 2026.1.24|C++|동적 메모리 할당|./Cpp/00_Basics/DynamicMemory.cpp|  
 2026.1.26|C++|함수와 구조체|./Cpp/00_Basics/funcAndStruct.cpp|  
+2026.1.28|C++|정적 변수와 상수 변수|./Cpp/00_Basics/StaticConst1.cpp|  
